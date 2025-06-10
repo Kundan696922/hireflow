@@ -1,12 +1,12 @@
 # 💼 HireFlow – Modern Job Search Platform
 
-**BudgetWise** is a modern and responsive expense tracker web application built using **React** and **Bootstrap**. It helps users manage their finances with an intuitive dashboard, insightful reports, and a complete transaction history. Stay in control of your budget with ease!
+**HireFlow** is a modern and responsive expense tracker web application built using **React** and **Bootstrap**. It helps users manage their finances with an intuitive dashboard, insightful reports, and a complete transaction history. Stay in control of your budget with ease!
 
 ---
 
 ## 🚀 Demo 
 
-> You can see the website live here: 👉 [Show Demo](https://budgetwise69.netlify.app/)
+> You can see the website live here: 👉 [Show Demo](https://hireflow22.netlify.app/)
 
 ---
 
